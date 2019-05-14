@@ -1,0 +1,22 @@
+{
+    "name": "calme",
+    "displayName": "Calme",
+    "description": "Theme based on Paper White and inspired by MDN.",
+    "version": "0.0.1",
+    "publisher": "Calmos",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Calme",
+                "uiTheme": "vs",
+                "path": "./themes/Calme-color-theme.json"
+            }
+        ]
+    }
+}
